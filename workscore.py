@@ -16,6 +16,7 @@ avg = hap//2
 print()
 print(f'국어={kor}')
 print(f'영어={eng}')
+print(f'합계={hap}')
 print(f'평균={avg}')
 
 
